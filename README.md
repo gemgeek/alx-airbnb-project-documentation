@@ -43,4 +43,4 @@ The system is designed to support users, property management, bookings, payments
 - Scalability, Security, Caching, and Testing
 
 ## Diagram
-![Features Diagram](./features.png.png)
+![Features Diagram](./features-and-functionalities/features.png.png)
