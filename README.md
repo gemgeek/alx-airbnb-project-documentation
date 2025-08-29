@@ -1,4 +1,4 @@
-# Features and Functionalities – Airbnb Clone Backend
+# Features and Functionalities - Airbnb Clone Backend
 
 This document outlines the key features and functionalities of the Airbnb Clone backend project.  
 The system is designed to support users, property management, bookings, payments, reviews, and admin operations.
